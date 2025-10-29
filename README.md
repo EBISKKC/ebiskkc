@@ -34,8 +34,7 @@
 <h2 align="center">📊 GitHub Activity & Stats</h2>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ebiskkc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ebiskkc&theme=tokyonight&hide_border=true&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ebiskkc&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
 </div>
 
 <div align="center">
